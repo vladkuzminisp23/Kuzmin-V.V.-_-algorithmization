@@ -1,0 +1,852 @@
+:: StoryTitle
+военник
+
+
+:: StoryData
+{
+  "ifid": "E83CEF0E-D37D-4CAA-9F6F-6C2A95F2E6ED",
+  "format": "Harlowe",
+  "format-version": "3.3.9",
+  "start": "start",
+  "zoom": 1
+}
+
+
+:: -> {"position":"625,125","size":"100,100"}
+<div class="second">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<img
+src = 'https://yougile.com/user-data/0a575900-f0cf-4014-9c44-50a63cc4d6ca/IMG_2924.PNG-256-preview@192x256.png' class = 'large-image' >
+
+
+
+
+
+
+
+
+<div class="transparent-box">
+(text-colour:black)[Ты все у всех узнал?]
+(text-colour:black)[
+[[да]]
+[[нет|start]]
+]
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+
+
+:: \[пойти к владу {"position":"950,550","size":"100,100"}
+
+
+
+:: start {"position":"900,375","size":"100,100"}
+<div class="first">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<img
+src = 'https://ru.yougile.com/user-data/91cc701c-d9ce-4804-bde2-8680d3c92405/image-fotor-bg-remover-2024101891223.png?previews[]=-256-preview@256x58' weidth=250 height=250 >
+
+
+
+
+
+
+
+
+<div class="transparent-box">
+(text-colour:black)[Привет Аркаша! Давай мы тебе расскажем как мы делали заказ. Подойди к каждома из участников нашей группы и спроси кто чем занимался, вот они справа на лево]
+(text-colour:black)[
+[[пройти и спросить про второе задание]]
+[[подойти к Андрею]]
+[[подойти к Владу]]
+[[подойти к Вите]]
+[[подойти к Полине]]
+[[подойти к Кристине]]
+[[идем дальше]]]
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+
+
+:: Оценка {"position":"1425,425","size":"100,100"}
+<div class="second">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<img
+src = 'https://yougile.com/user-data/7104ec59-1317-46b9-99d1-097c6c473a6f/images%20(1)-Photoroom.png-256-preview@218x256.png' class = 'large-image' >
+
+
+
+
+
+
+
+
+<div class="transparent-box">
+(text-colour:black)[Аркаша
+---
+Буду оценивать по 5-ти бальной системе!
+Влад - 5 из 5
+Андрей - 5 из 5
+Витя - 5 из 5
+Полина - 5 из 5
+Кристина - 5 из 5
+[[пойти домой]]]
+</div>
+
+
+
+
+
+
+
+</div>
+
+
+:: да {"position":"575,400","size":"100,100"}
+<div class="second">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<img
+src = 'https://yougile.com/user-data/0a575900-f0cf-4014-9c44-50a63cc4d6ca/IMG_2924.PNG-256-preview@192x256.png' class = 'large-image' >
+
+
+
+
+
+
+
+
+<div class="transparent-box">
+(text-colour:black)[Отлично спасибо что уделил нам время!]
+(text-colour:black)[
+[[пойти домой]]
+]
+</div>
+
+
+
+
+
+
+
+</div>
+
+
+:: да! {"position":"1425,300","size":"100,100"}
+<div class="second">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<img
+src = 'https://yougile.com/user-data/0a575900-f0cf-4014-9c44-50a63cc4d6ca/IMG_2924.PNG-256-preview@192x256.png' class = 'large-image' >
+
+
+
+
+
+
+
+
+<div class="transparent-box">
+(text-colour:black)[Андрей
+---
+Отлично! Как можешь оценить работу каждого?
+[[Оценка]]]
+</div>
+
+
+
+
+
+
+
+</div>
+
+
+:: идем далее {"position":"1375,125","size":"100,100"}
+<div class="second">
+
+
+<img
+src = 'https://yougile.com/user-data/0a575900-f0cf-4014-9c44-50a63cc4d6ca/IMG_2924.PNG-256-preview@192x256.png' class = 'large-image' >
+
+
+
+
+
+
+
+
+<div class="transparent-box">
+(text-colour:black)[Андрей
+---
+Ты все у всех узнал?
+
+[[да!]]
+[[нет|пройти и спросить про второе задание]]
+</div>]
+
+
+
+:: идем дальше {"position":"850,125","size":"100,100"}
+<div class="second">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<img
+src = 'https://yougile.com/user-data/0a575900-f0cf-4014-9c44-50a63cc4d6ca/IMG_2924.PNG-256-preview@192x256.png' class = 'large-image' >
+
+
+
+
+
+
+
+
+<div class="transparent-box">
+(text-colour:black)[Ты все у всех узнал?]
+(text-colour:black)[
+[[да]]
+[[нет|start]]
+]
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+
+
+:: подойти к Андрею {"position":"950,675","size":"100,100"}
+<div class="first">
+
+
+<img
+src = 'https://yougile.com/user-data/0a575900-f0cf-4014-9c44-50a63cc4d6ca/IMG_2924.PNG-256-preview@192x256.png'  class="large-image">
+
+
+
+
+<div class="transparent-box">
+(text-colour:black)[Привет Аркадий! Что там у тебя мужчинский? Я помогла писать код<a href="https://colab.research.google.com/drive/1KyFxM3Ed-KCyqLeibIOXZiou8u37eYtu?usp=drive_link"> вот </a>
+
+[[вернуться обратно |start]]]
+</div>
+
+
+
+
+
+
+
+
+
+
+</div>
+
+
+:: подойти к Вите {"position":"1150,675","size":"100,100"}
+<div class="first">
+
+
+<img
+src = 'https://yougile.com/user-data/e88422e7-16b0-4073-aa0c-52d13cb3b58f/IMG_2926.PNG-256-preview@256x170.png'  class="large-image">
+
+
+
+
+<div class="transparent-box">
+(text-colour:black)[Привет Аркадий поровозов! Приходи ко мне на работу и может даже я тебя ударю молотков в костюме джокера. Я помогла писать код<a href="https://colab.research.google.com/drive/1KyFxM3Ed-KCyqLeibIOXZiou8u37eYtu?usp=drive_link"> вот </a>
+
+[[вернуться обратно |start]]]
+</div>
+
+
+
+
+
+
+
+
+
+
+</div>
+
+
+:: подойти к Владу {"position":"750,675","size":"100,100"}
+<div class="first">
+
+
+<img
+src = 'https://yougile.com/user-data/c6820b26-ad7c-4619-a69e-d6ab0fe6d970/IMG_2928.PNG-256-preview@189x256.png'  class="large-image">
+
+
+
+
+<div class="transparent-box">
+(text-colour:black)[Привет Аркаш! Как жизнь молодая? Я писал код<a href="https://colab.research.google.com/drive/1KyFxM3Ed-KCyqLeibIOXZiou8u37eYtu?usp=drive_link"> вот </a>
+
+[[вернуться обратно |start]]]
+</div>
+
+
+
+
+
+
+
+
+
+
+</div>
+
+
+:: подойти к Кристине {"position":"850,675","size":"100,100"}
+<div class="first">
+
+
+<img
+src = 'https://yougile.com/user-data/446f21ff-dac7-49c7-9790-d7c3cebd6b24/IMG_2925.PNG-256-preview@171x256.png' class="large-image" >
+
+
+
+<div class="transparent-box">
+(text-colour:black)[Привет Аркаша! я занималась редактированием документа <a href="https://docs.google.com/document/d/1gPTQQY4VBv5fjFjjPo2Vu3hXOH68oC1J/edit?usp=drive_link&ouid=101294189290754420777&rtpof=true&sd=true">смотри</a>
+
+[[вернуться обратно |start]]]
+</div>
+
+
+
+
+
+
+
+
+
+
+</div>
+
+
+:: подойти к Полине {"position":"1050,675","size":"100,100"}
+<div class="first">
+
+
+<img
+src = 'https://yougile.com/user-data/c2e88c28-807b-4001-9063-7bc3fe800216/IMG_2927.PNG-256-preview@192x256.png'  class="large-image">
+
+
+
+
+<div class="transparent-box">
+(text-colour:black)[Привет Аркаш! Как освоение на новом месте тут в колледже? Я делала exel<a href="https://docs.google.com/spreadsheets/d/1RFZrujTcHH0UyPVJjiuAYbrqMJl9EYRu/edit?usp=drive_link&ouid=101294189290754420777&rtpof=true&sd=true"> вот </a>
+
+[[вернуться обратно |start]]]
+</div>
+
+
+
+
+
+
+
+
+
+
+</div>
+
+
+:: пойти домой {"position":"575,525","size":"100,100"}
+<div class="third">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="transparent-box">
+(text-colour:black)[]
+(text-colour:black)[
+[[пропйстить доргу домой]]
+]
+</div>
+
+
+
+
+
+
+</div>
+
+
+:: пойти к андрею {"position":"1175,275","size":"100,100"}
+<div class="first">
+
+
+<img
+src = 'https://yougile.com/user-data/0a575900-f0cf-4014-9c44-50a63cc4d6ca/IMG_2924.PNG-256-preview@192x256.png'  class="large-image">
+
+
+
+
+<div class="transparent-box">
+(text-colour:black)[
+Андрей
+---
+Привет Аркаш, рад тебя снова видеть. Я как и в прошлый раз помогал писать код Владу<a href="https://colab.research.google.com/drive/1bauJ--Y31R9EsEku8QXXNBt_ZYIAFRPJ?usp=drive_link"> вот </a>
+
+[[вернуться обратно |пройти и спросить про второе задание]]]
+</div>
+
+
+
+
+
+
+
+
+
+
+</div>
+
+
+:: пойти к вите {"position":"1175,375","size":"100,100"}
+<div class="first">
+
+
+<img
+src = 'https://yougile.com/user-data/e88422e7-16b0-4073-aa0c-52d13cb3b58f/IMG_2926.PNG-256-preview@256x170.png'  class="large-image">
+
+
+
+<div class="transparent-box">
+(text-colour:black)[
+Витек
+---
+Бу! Испугался? Не бойся я друг. Я как и в прошлый раз был моральной поддержкой и и делал базу данных для кода.<a href="https://drive.google.com/file/d/1f7RCSovV2k1DjQ4fxDdIoq1s27NzZ1hS/view?usp=drive_link"> вот </a>
+
+[[вернуться обратно |пройти и спросить про второе задание]]]
+</div>
+
+
+
+
+
+
+
+
+
+
+</div>
+
+
+:: пойти к владу {"position":"1175,175","size":"100,100"}
+<div class="first">
+
+
+<img
+src = 'https://yougile.com/user-data/c6820b26-ad7c-4619-a69e-d6ab0fe6d970/IMG_2928.PNG-256-preview@189x256.png'  class="large-image">
+
+
+
+
+<div class="transparent-box">
+(text-colour:black)[
+Влад
+---
+Привет Аркадий! Ты знаешь по прошлой работе что я менеджер данного проекта и я как в прошлый раз занимался кодом<a href="https://colab.research.google.com/drive/1bauJ--Y31R9EsEku8QXXNBt_ZYIAFRPJ?usp=drive_link"> вот </a>
+
+[[вернуться обратно |пройти и спросить про второе задание]]]
+</div>
+
+
+
+
+
+
+
+
+
+
+</div>
+
+
+:: пойти к кристине {"position":"1175,475","size":"100,100"}
+<div class="first">
+
+
+<img
+src = 'https://yougile.com/user-data/446f21ff-dac7-49c7-9790-d7c3cebd6b24/IMG_2925.PNG-256-preview@171x256.png' class="large-image" >
+
+
+
+
+<div class="transparent-box">
+(text-colour:black)[
+Кристина
+---
+Привет Аркаш! Рада тебя видеть в штатном посещении коледжа! Я как и в прошлый раз писала docx-документ<a href="https://docs.google.com/document/d/1nu5Vrztpjyx6fEtk5YdhCQyfV5Ml9jNY/edit?usp=drive_link&ouid=101294189290754420777&rtpof=true&sd=true"> вот </a>
+
+[[вернуться обратно |пройти и спросить про второе задание]]]
+</div>
+
+
+
+
+
+
+
+
+
+
+</div>
+
+
+:: пойти к полине {"position":"1175,75","size":"100,100"}
+<div class="first">
+
+
+<img
+src = 'https://yougile.com/user-data/c2e88c28-807b-4001-9063-7bc3fe800216/IMG_2927.PNG-256-preview@192x256.png'  class="large-image">
+
+
+
+
+<div class="transparent-box">
+(text-colour:black)[
+Полина
+---
+Привет Аркаша! рада что ты выздоровел и снова посещаешь колледж. Я как и в прошлый раз писала excel файл<a href="https://docs.google.com/spreadsheets/d/1pDsiGEnl44EK9eseo7ta8mXNkjAu2evW/edit?usp=drive_link&ouid=101294189290754420777&rtpof=true&sd=true"> вот </a>
+
+[[вернуться обратно |пройти и спросить про второе задание]]]
+</div>
+
+
+
+
+
+
+
+
+
+
+</div>
+
+
+:: пройти и спросить про второе задание {"position":"950,50","size":"100,100"}
+<div class="first">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<img
+src = 'https://ru.yougile.com/user-data/91cc701c-d9ce-4804-bde2-8680d3c92405/image-fotor-bg-remover-2024101891223.png?previews[]=-256-preview@256x58' weidth=250 height=250 >
+
+
+
+
+
+
+
+
+<div class="transparent-box">
+(text-colour:black)[Привет снова Аркаш, вот мы снова встретились, чтобы поведать тебе о нашем новом заказе и о том как мы сним справились!]
+(text-colour:black)[[[пойти к владу]]
+[[пойти к андрею]]
+[[пойти к вите]]
+[[пойти к полине]]
+[[пойти к кристине]]
+[[идем далее]]]
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+
+
+:: пропйстить доргу домой {"position":"575,650","size":"100,100"}
+<div class="fourth">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="transparent-box">
+(text-colour:black)[Ура я пришел домой!]
+(text-colour:black)[
+]
+</div>
+
+
+
+
+
+
+</div>
+
+
+:: StoryStylesheet [stylesheet]
+tw-link
+{
+  color:#ffffff;
+}
+
+tw-story
+{
+  font-family:Arial;
+  font-size: 22px;
+}
+
+.transparent-box {
+border: 5px solid rgba(0, 0, 0, 0.5);
+border-radius: 10px;
+padding: 20px;
+background-color: rgba(255, 255, 255, 0.8);
+}
+
+.first {
+background-image: url('https://i.pinimg.com/736x/a3/56/39/a35639a53aaa4bd7c12e04ca540f68b8.jpg');
+background-size: cover;
+color: white;
+}
+
+.second {
+background-image: url('https://kartinki.pics/uploads/posts/2021-07/1625537412_50-kartinkin-com-p-anime-fon-shkola-anime-krasivo-54.jpg');
+background-size: cover;
+color: white;
+}
+
+.third {
+background-image: url('https://kartinki.pics/uploads/posts/2021-07/thumbs/1625537377_19-kartinkin-com-p-anime-fon-shkola-anime-krasivo-20.jpg');
+background-size: cover;
+color: white;
+}
+
+.fourth {
+background-image: url('https://avatars.mds.yandex.net/get-shedevrum/12370558/963d2ca9c3f411eebe1d4225b8a7f943/orig');
+background-size: cover;
+color: white;
+}
+
+.large-image {
+width: 30%; 
+height: auto;
+}
+
+.left-image {
+float: left; 
+margin-right: 15px; 
+}
